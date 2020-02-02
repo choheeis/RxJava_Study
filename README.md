@@ -13,7 +13,6 @@
 <br>
 
 ## 💛 1장 - HelloRxJava!
----
 
 프로그래밍 패러다임 중 하나인 Reactive Programming 에 대해 간단하게 알아보면서 RxJava가 무엇인지를 자연스럽게 알 수 있었다.
 
