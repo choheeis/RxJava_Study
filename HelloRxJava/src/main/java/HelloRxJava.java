@@ -10,7 +10,7 @@ import io.reactivex.rxjava3.core.Observable;
 public class HelloRxJava {
 
     public void emit(){
-        Observable.just("Helllo", "RxJava3!!").subscribe(System.out::println);
+        Observable.just("Hello", "RxJava!").subscribe(System.out::println);
     }
 
     public static void main(String[] args) {
