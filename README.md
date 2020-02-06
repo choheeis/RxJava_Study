@@ -4,7 +4,7 @@
 
 <img src = "https://user-images.githubusercontent.com/31889335/73610669-4a229e00-461d-11ea-928c-cd9646ff51d1.PNG" height = "200"> 
 
-이 책을 기반으로 공부한 RxJava 관련 지식과 실습 소스 코드들을 모아놓은 레포지토리 입니다~! 
+이 책과 [Rx Docs](http://reactivex.io/) 을 기반으로 공부한 RxJava 관련 지식과 실습 소스 코드들을 모아놓은 레포지토리 입니다~! 
 
 👉 책 읽기 시작한 날짜 : 2020/01/23
 
@@ -23,3 +23,5 @@
 <br>
 
 ## 💙 2장 - 열심히 스터디 중!
+
+- [Observable 클래스에 대해서!](https://choheeis.github.io/rxjava/2020/02/03/RxJavaObservable.html)
