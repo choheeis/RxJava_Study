@@ -25,3 +25,5 @@
 ## 💙 2장 - 열심히 스터디 중!
 
 - [Observable 클래스에 대해서!](https://choheeis.github.io/rxjava/2020/02/03/RxJavaObservable.html)
+
+- [Single 클래스에 대해서!](https://choheeis.github.io/rxjava/2020/02/10/RxJavaSingle.html)
