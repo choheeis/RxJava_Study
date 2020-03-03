@@ -12,7 +12,7 @@
 
 <br>
 
-## 💛 1장 - HelloRxJava!
+# 💛 1장 - HelloRxJava!
 
 프로그래밍 패러다임 중 하나인 Reactive Programming 에 대해 간단하게 알아보면서 RxJava가 무엇인지를 자연스럽게 알 수 있었다.
 
@@ -22,8 +22,14 @@
 
 <br>
 
-## 💙 2장 - 열심히 스터디 중!
+# 💙 2장 - Observable, Single, Subject 클래스
 
 - [Observable 클래스에 대해서!](https://choheeis.github.io/rxjava/2020/02/03/RxJavaObservable.html)
 
 - [Single 클래스에 대해서!](https://choheeis.github.io/rxjava/2020/02/10/RxJavaSingle.html)
+
+- [Subject 클래스에 대해서!](https://choheeis.github.io/rxjava/2020/02/24/RxJavaSubject.html)
+
+<br>
+
+# 💚 3장 - 열심히 스터디중! 
