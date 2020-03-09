@@ -32,8 +32,12 @@
 
 <br>
 
-## 💚 3장 - 열심히 스터디중! 
+## 💚 3장 - ReactiveX의 기본 연산자 4가지에 대해서!
 
-- [ReactiveX의 여러 연산자들에 대해서!](https://choheeis.github.io/rxjava/2020/03/03/RxJavaOperator.html)
+- [ReactiveX의 기본 연산자들에 대해서!](https://choheeis.github.io/rxjava/2020/03/03/RxJavaOperator.html)
+
+<br>
+
+## ❤️ 4장 - 열심히 스터디중!
 
 <br>
