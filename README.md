@@ -40,4 +40,6 @@
 
 ## ❤️ 4장 - 열심히 스터디중!
 
+- [ReactiveX의 여러 연산자들에 대해서!](https://choheeis.github.io/rxjava/2020/03/09/RxJavaOperatorUpgrade.html)
+
 <br>
