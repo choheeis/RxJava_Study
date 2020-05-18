@@ -44,4 +44,10 @@
 
 <br>
 
-## ❤️ 5장 - 열심히 공부중!
+## ❤️ 5장 - ReactiveX의 스케줄러
+
+- [Rx의 스케줄러](https://choheeis.github.io/rxjava/2020/04/23/RxScheduler.html)
+
+<br>
+
+## 💜 6장 - 열심히 공부중~
